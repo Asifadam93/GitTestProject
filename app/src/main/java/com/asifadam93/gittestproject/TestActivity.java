@@ -2,6 +2,7 @@ package com.asifadam93.gittestproject;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class TestActivity extends AppCompatActivity {
 
@@ -12,6 +13,6 @@ public class TestActivity extends AppCompatActivity {
     }
 
     private void change(){
-        /////////////
+        Log.i("MainActivity","Hello world !");
     }
 }
