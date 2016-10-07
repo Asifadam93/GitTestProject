@@ -2,6 +2,7 @@ package com.asifadam93.gittestproject;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class TestActivity extends AppCompatActivity {
 
