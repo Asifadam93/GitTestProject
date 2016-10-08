@@ -8,6 +8,10 @@ public class BrachTestActivity {
 
     public BrachTestActivity() {
 
+        /**
+         * Branch activity test
+         */
+
     }
 
 }
