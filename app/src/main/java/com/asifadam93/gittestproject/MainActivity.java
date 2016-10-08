@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
     private void testFunction(){
 
         Log.i("MainActivity","Hello world !");
-
+/**
+    Super fonctionne bien !!!!!!!!!!!!!
+ */
     }
 }
